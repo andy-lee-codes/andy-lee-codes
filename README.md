@@ -5,7 +5,7 @@ I am skilled in Python, web development, and am familiar with security principle
 
 - 🔭 I’m currently working on obtaining an Associate Solutions Architect Certification.
 - 🌱 I’m currently learning JavaScript, TypeScript, and React.
-- 🤔 I’m looking for help with finding full-time opportunities to grow my skills in my areas of interest.
+- 🤔 I’m looking for internships and full-time opportunities to grow my skills in my areas of interest.
 
 <!--
 **andy-lee-codes/andy-lee-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
