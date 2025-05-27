@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Andy, I am a computer science graduate from New York University interested in software engineering, cybersecurity, and all things tech related.
+My name is Andy, I am a computer science graduate from New York University interested in software engineering, cybersecurity, information technology, and all things tech related.
 I am skilled in Python, web development, and am familiar with security principles.
 
-- 🔭 I’m currently working on obtaining an Associate Solutions Architect Certification.
+- 🔭 I’m currently working on obtaining my CompTIA Network+ Certification.
 - 🌱 I’m currently learning JavaScript, TypeScript, and React.
 - 🤔 I’m looking for internships and full-time opportunities to grow my skills in my areas of interest.
 
